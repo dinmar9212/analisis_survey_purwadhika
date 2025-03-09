@@ -1,7 +1,7 @@
 # Analisis Data Survey Purwadhika
 
 ## Deskripsi
-Proyek ini merupakan analisis data survey yang dilakukan oleh Purwadhika. Analisis ini mencakup berbagai aspek, termasuk pembersihan data, visualisasi, dan pengujian statistik untuk memahami pola dan hubungan dalam data.
+Proyek ini merupakan analisis data survey yang dilakukan oleh Purwadhika. Analisis ini mencakup berbagai aspek, termasuk pembersihan data, visualisasi, dan pengujian statistik untuk memahami pola dan hubungan dalam data. Proyek ini lebih berfokus kepada Pengaruh Kelompok Usia terhadap Pengeluaran Bulanan Siswa Purwadhika
 
 ## Struktur Proyek
 - **Analisis Data**: Berisi langkah-langkah analisis data, termasuk pembersihan, visualisasi, dan pengujian statistik.
